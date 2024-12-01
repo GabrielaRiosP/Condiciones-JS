@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    background-color: bisque;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.cards {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.cards img {
+    width: 350px;
+    height: 350px;
+}
+
+.resultado {
+    margin: 10px;
+    border: 2px solid black;
+    background-color: rgb(184, 115, 115);
+}
